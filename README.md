@@ -46,6 +46,10 @@ This file contains the main logic of the project. Below is a breakdown of its fu
 ## Usage
 
 To run this project, ensure you have an appropriate environment set up with the required libraries. The program will download the necessary DLLs, extract and decrypt login data from installed browsers, and then clean up the downloaded DLLs.
+### Third-Party Libraries:
+- nlohmann/json.hpp for JSON parsing
+- sodium.h for cryptographic functions
+- sqlite3.h for SQLite database interactions
 
 ## Acknowledgements
 
