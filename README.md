@@ -57,4 +57,4 @@ This project is strictly for educational purposes. Unauthorized access or misuse
 
 ## Future Enhancements
 
-This is a barebones proof of concept (PoC) for bringing the needed DLLs. Future enhancements could include searching for needed DLLs on the system instead of downloading them to disk.
+This is a barebones proof of concept (PoC) for bringing the needed DLLs. Future enhancements (up to you) could include searching for needed DLLs on the system instead of downloading them to disk. Loading to memory, blah, blah, blah
