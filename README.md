@@ -6,7 +6,7 @@
 
 # TheChromShow
 
-This project is for educational purposes to understand malware behavior and its implications for Blue Team (defensive) testing. It worked for my testing, if it doesnt work for you then make it work for you.
+This project is for educational purposes to understand malware behavior and its implications for Blue Team (defensive) testing. It worked for my testing (64-bit only Release), if it doesnt work for you then make it work for you.
 
 ## Overview
 
