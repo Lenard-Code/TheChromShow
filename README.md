@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="TheChromShow.jpg" alt="Alt text">
+  <img src="TheChromShow_small.jpg" alt="Alt text">
 </p>
 
 
