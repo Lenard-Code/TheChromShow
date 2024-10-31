@@ -54,8 +54,8 @@ To run this project, ensure you have an appropriate environment set up with the 
 ## Acknowledgements
 
 This project acknowledges:
-  [github.com/BernKing/ChromeStealer](https://github.com/BernKing/ChromeStealer) Provided code (the important logic to access data).
-  [github.com/nlohmann/json](https://github.com/nlohmann/json). Third-Party Library
+[github.com/BernKing/ChromeStealer](https://github.com/BernKing/ChromeStealer) Provided code (the important logic to access data).
+[github.com/nlohmann/json](https://github.com/nlohmann/json). Third-Party Library
 
 ## Disclaimer
 
